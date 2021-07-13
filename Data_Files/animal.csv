@@ -1,0 +1,26 @@
+animal_id,customer_id,date,payment_mode,adoption_info,shelter_id
+14,56,02-11-2020,cash,animal,4
+67,28,20-08-2020,card,animal,1
+39,17,23-04-2020,card,animal,1
+,35,13-04-2020,cash,pet accessories,2
+56,43,25-07-2020,cash,animal,3
+38,47,09-01-2020,card,animal,1
+41,62,19-09-2020,cash,animal,3
+,90,14-12-2019,card,pet accessories,1
+,96,16-11-2020,cash,pet accessories,1
+2,38,16-05-2020,cash,animal,2
+87,52,21-09-2020,cash,animal,5
+1,48,03-10-2020,cash,animal,1
+,22,26-11-2020,card,pet accessories,5
+7,99,26-05-2020,card,animal,3
+85,46,18-04-2020,card,animal,3
+94,13,27-08-2020,card,animal,2
+,84,26-11-2020,cash,pet accessories,3
+58,74,11-05-2020,cash,animal,3
+11,75,03-01-2020,card,animal,5
+27,29,11-08-2020,card,animal,1
+100,57,20-04-2020,card,animal,3
+,94,20-02-2020,cash,pet accessories,4
+74,14,09-08-2020,cash,animal,2
+63,76,06-10-2020,cash,animal,1
+32,66,23-01-2020,cash,animal,4
